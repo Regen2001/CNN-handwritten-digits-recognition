@@ -2,4 +2,4 @@
 
 XJTLU INT305 lab
 
-一个简单的基于CNN的手写数字识别程序, 并使用MNIST数据集验证
+A simple CNN-based handwritten digit recognition procedure, validated with the MNIST dataset.
